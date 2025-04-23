@@ -1,5 +1,4 @@
 # Project-2
-Disaster management website
 "C:\Users\preet\OneDrive\Pictures\Screenshots\Screenshot (5).png"
 "C:\Users\preet\OneDrive\Pictures\Screenshots\Screenshot 2025-04-19 201225.png" 
 "C:\Users\preet\OneDrive\Pictures\Screenshots\Screenshot (6).png" 
